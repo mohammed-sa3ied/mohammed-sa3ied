@@ -6,9 +6,7 @@
 
 ---
 
-![Python](https://img.shields.io/badge/Python-Expert-blue)
-![Machine Learning](https://img.shields.io/badge/ML-Advanced-green)
-![Deep Learning](https://img.shields.io/badge/DL-Intermediate-orange)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast)
 
 ---
 
