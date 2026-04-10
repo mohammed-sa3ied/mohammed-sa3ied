@@ -1,7 +1,7 @@
 # Hi, I'm Mohammed Saied 👋
 
 🎓 AI Student @ Helwan University  
-🤖 Machine Learning Engineer | Computer Vision & NLP  
+🤖 Machine Learning Engineer
 🚀 Passionate about building real-world AI systems  
 
 ---
@@ -19,7 +19,7 @@
 - Built a CNN-based real-time gesture recognition system using OpenCV
 - Implemented full pipeline: preprocessing, augmentation, training, inference
 - Achieved high accuracy on live webcam input
-- 🔗 [Project Link]([YOUR_LINK](https://github.com/mohammed-sa3ied/Project_6-Hand_Gesture_Recognition_System-Team_3-DEPI_Graduation_Project))
+- 🔗 [Project Link](https://github.com/mohammed-sa3ied/Project_6-Hand_Gesture_Recognition_System-Team_3-DEPI_Graduation_Project)
 
 ---
 
@@ -27,7 +27,7 @@
 - End-to-end ML pipeline (EDA → PCA → modeling → deployment)
 - Models: Logistic Regression, Random Forest, SVM
 - Built Streamlit app for real-time predictions
-- 🔗 [Project Link]([YOUR_LINK](https://github.com/mohammed-sa3ied/UCI-Heart-Disease-Project_Sprints-x-Microsoft-Summer-Camp_AI-and-Machine-Learning))
+- 🔗 [Project Link](https://github.com/mohammed-sa3ied/UCI-Heart-Disease-Project_Sprints-x-Microsoft-Summer-Camp_AI-and-Machine-Learning)
 
 ---
 
@@ -40,5 +40,5 @@
 ---
 
 ## 📫 Connect with Me
-- LinkedIn: [YOUR LINK](https://www.linkedin.com/in/mohammed-sa3ied/)
+- LinkedIn: [My Profile](https://www.linkedin.com/in/mohammed-sa3ied/)
 - Email: mohammedsa3ied25@gmail.com
