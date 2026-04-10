@@ -1,6 +1,6 @@
 ![Banner](https://github.com/mohammed-sa3ied/mohammed-sa3ied/blob/main/banner.png)
 # Hi, I'm Mohammed Saied👋🏼
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Enthusiast)
+
 🎓 AI Student @ Helwan University  
 🤖 Machine Learning Engineer    
 🚀 Passionate about building real-world AI systems  
@@ -48,10 +48,22 @@
 
 ---
 
+## ⚡ What Sets Me Apart
+- I don’t just train models — I build **complete AI systems**
+- Focus on **real-world applications**, not just notebooks
+- Strong balance between **theory + practical implementation**
+
+---
+
 ## 📫 Connect with Me
 - LinkedIn: [My Profile](https://www.linkedin.com/in/mohammed-sa3ied/)
 - Email: mohammedsa3ied25@gmail.com
 
 ---
 
-### _⭐ Always learning. Always building. Always getting better._
+### ⭐ _Always learning. Always building. Always getting better._
+
+
+&theme=radical
+&hide=html,css
+![GitHub Streak](https://streak-stats.demolab.com?user=mohammed-sa3ied&theme=tokyonight)
