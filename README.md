@@ -6,6 +6,12 @@
 
 ---
 
+![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Machine Learning](https://img.shields.io/badge/ML-Advanced-green)
+![Deep Learning](https://img.shields.io/badge/DL-Intermediate-orange)
+
+---
+
 ## 🧠 About Me
 - AI student specializing in Machine Learning & Deep Learning
 - Built end-to-end ML pipelines and deployed real applications
