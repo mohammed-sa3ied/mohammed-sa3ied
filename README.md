@@ -39,6 +39,18 @@
 
 ---
 
+## 🌱 Currently Learning
+
+- Advanced Deep Learning architectures
+- Model optimization & deployment
+- Building production-ready AI systems
+
+---
+
 ## 📫 Connect with Me
 - LinkedIn: [My Profile](https://www.linkedin.com/in/mohammed-sa3ied/)
 - Email: mohammedsa3ied25@gmail.com
+
+---
+
+### ⭐ Always learning. Always building. Always getting better.
