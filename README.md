@@ -1,13 +1,9 @@
 ![Banner](https://github.com/mohammed-sa3ied/mohammed-sa3ied/blob/main/banner.png)
-# Hi, I'm Mohammed Saied 👋
+# Hi, I'm Mohammed Saied👋🏼
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Enthusiast)
-
 🎓 AI Student @ Helwan University  
 🤖 Machine Learning Engineer    
 🚀 Passionate about building real-world AI systems  
-
----
-
 
 ---
 
