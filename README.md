@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Mohammed Saied 👋
 
-<!--
-**mohammed-sa3ied/mohammed-sa3ied** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student @ Helwan University  
+🤖 Machine Learning Engineer | Computer Vision & NLP  
+🚀 Passionate about building real-world AI systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+- AI student specializing in Machine Learning & Deep Learning
+- Built end-to-end ML pipelines and deployed real applications
+- Strong interest in Computer Vision, NLP, and AI product development
+
+---
+
+## 🚀 Featured Projects
+
+### 🖐 Hand Gesture Recognition System
+- Built a CNN-based real-time gesture recognition system using OpenCV
+- Implemented full pipeline: preprocessing, augmentation, training, inference
+- Achieved high accuracy on live webcam input
+- 🔗 [Project Link]([YOUR_LINK](https://github.com/mohammed-sa3ied/Project_6-Hand_Gesture_Recognition_System-Team_3-DEPI_Graduation_Project))
+
+---
+
+### ❤️ Heart Disease Prediction System
+- End-to-end ML pipeline (EDA → PCA → modeling → deployment)
+- Models: Logistic Regression, Random Forest, SVM
+- Built Streamlit app for real-time predictions
+- 🔗 [Project Link]([YOUR_LINK](https://github.com/mohammed-sa3ied/UCI-Heart-Disease-Project_Sprints-x-Microsoft-Summer-Camp_AI-and-Machine-Learning))
+
+---
+
+## 🛠 Tech Stack
+- Python, SQL, Java
+- Machine Learning, Deep Learning, NLP, Computer Vision
+- NumPy, Pandas, Scikit-learn
+- OpenCV, Streamlit
+
+---
+
+## 📫 Connect with Me
+- LinkedIn: [YOUR LINK](https://www.linkedin.com/in/mohammed-sa3ied/)
+- Email: mohammedsa3ied25@gmail.com
