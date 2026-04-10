@@ -1,4 +1,5 @@
 # Hi, I'm Mohammed Saied 👋
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Engineer;Computer+Vision+Enthusiast)
 
 🎓 AI Student @ Helwan University  
 🤖 Machine Learning Engineer    
@@ -6,7 +7,6 @@
 
 ---
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Machine+Learning+Developer;Computer+Vision+Enthusiast)
 
 ---
 
