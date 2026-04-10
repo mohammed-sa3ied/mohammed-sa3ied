@@ -62,8 +62,3 @@
 ---
 
 ### ⭐ _Always learning. Always building. Always getting better._
-
-
-&theme=radical
-&hide=html,css
-![GitHub Streak](https://streak-stats.demolab.com?user=mohammed-sa3ied&theme=tokyonight)
