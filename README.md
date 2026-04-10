@@ -14,6 +14,13 @@
 
 ---
 
+## ⚡ What Sets Me Apart
+- I don’t just train models — I build **complete AI systems**
+- Focus on **real-world applications**, not just notebooks
+- Strong balance between **theory + practical implementation**
+
+---
+
 ## 🚀 Featured Projects
 
 ### 🖐 Hand Gesture Recognition System
@@ -45,13 +52,6 @@
 - Advanced Deep Learning architectures
 - Model optimization & deployment
 - Building production-ready AI systems
-
----
-
-## ⚡ What Sets Me Apart
-- I don’t just train models — I build **complete AI systems**
-- Focus on **real-world applications**, not just notebooks
-- Strong balance between **theory + practical implementation**
 
 ---
 
