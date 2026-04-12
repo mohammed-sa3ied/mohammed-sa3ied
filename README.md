@@ -40,7 +40,7 @@
 ---
 
 ## 🛠 Tech Stack
-- Python, SQL, Java
+- Python, SQL
 - Machine Learning, Deep Learning, NLP, Computer Vision
 - NumPy, Pandas, Scikit-learn
 - OpenCV, Streamlit
